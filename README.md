@@ -79,4 +79,4 @@ Underlying	737446807=	Spread	0.0075
 
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/lib/EqWarrant.html
