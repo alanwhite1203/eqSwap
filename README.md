@@ -78,5 +78,9 @@ Underlying	737446807=	Spread	0.0075
 		Index Type	LIBOR
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/eqswap/downloads/EqSwap-7.pdf
+
